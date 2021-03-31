@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ListItemView">
+        <attr name="leading" format="reference"/>
+        <attr name="title" format="string"/>
+        <attr name="subtitle" format="string"/>
+        <attr name="hasCheckbox" format="boolean"/>
+    </declare-styleable>
+
+</resources>
